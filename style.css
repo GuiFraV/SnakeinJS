@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: #4666b8;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+canvas{
+    height: 700px;
+    width: 700px;
+    border: 1px solid #888;
+    background-color: black;
+}
